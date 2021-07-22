@@ -1,0 +1,87 @@
+Base path: '/Users/hyunahjung/Downloads/2019.2.18f1/Unity.app/Contents', plugins path '/Users/hyunahjung/Downloads/2019.2.18f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=15806 outsize=112321 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15806 outsize=54626 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15806 outsize=50708 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15806 outsize=91984 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=47246 outsize=88209 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=91920 outsize=202778 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=80970 outsize=173818 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=70902 outsize=146197 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=26390 outsize=15663 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=17944 outsize=34774 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5910 outsize=6309 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11207 outsize=6277 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9806 outsize=13924 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=18197 outsize=21048 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1038 outsize=862 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5067 outsize=10886 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10743 outsize=4528 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3154 outsize=2704 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2715 outsize=4646 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=13984 outsize=10554 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=22088 outsize=16544 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=22288 outsize=22213 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=22213 outsize=50820 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=8163 outsize=10129 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21149 outsize=35589 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=37247 outsize=49728 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=45705 outsize=88707 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=49136 outsize=95311 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5190 outsize=11050 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1909 outsize=2256 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Sort.compute(218): use of potentially uninitialized variable (GetKeyWithCheck)
+  api=14 insize=10127 outsize=5023 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5023 outsize=8658 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=13497 outsize=8439 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11722 outsize=5994 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=6360 outsize=231 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _NORMALMAP_TANGENT_SPACE _BLENDMODE_ALPHA _BLENDMODE_PRESERVE_SPECULAR_LIGHTING _ENABLE_FOG_ON_TRANSPARENT _MATERIAL_FEATURE_IRIDESCENCE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=42972 outsize=20766 kw=DECALS_3RT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=38944 outsize=188893 kw=DECALS_3RT SHADOW_LOW _SURFACE_TYPE_TRANSPARENT _DOUBLESIDED_ON _BLENDMODE_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=4408 outsize=1617 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=4119 outsize=2679 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=4223 outsize=2679 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=42176 outsize=206646 kw=DECALS_3RT SHADOW_LOW USE_CLUSTERED_LIGHTLIST pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
